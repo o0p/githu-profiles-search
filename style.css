@@ -60,3 +60,8 @@ body {
   height: 9.375rem;
   width: 9.375rem;
 }
+
+.user-info {
+  color: #eee;
+  margin-left: 2rem;
+}
