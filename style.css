@@ -47,4 +47,9 @@ body {
 .card {
   max-width: 800px;
   background-color: #4c2885;
+  border-radius: 20px;
+  box-shadow: 0 0.3125rem 0.625rem rgba(154, 160, 185, 0.05), 0 0.9375rem 2.5rem rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 3rem;
+  margin: 0 1.5rem;
 }
