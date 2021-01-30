@@ -19,5 +19,19 @@ body {
 
 .user-form {
   width: 100%;
-  max-width: 700px;
+  max-width: 43.75rem;
+}
+
+.user-form input {
+  width: 100%;
+  display: block;
+  background-color: #4c2885;
+  border: none;
+  border-radius: 0.625rem;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  font-family: inherit;
+  font-size: 1rem;
+  box-shadow: 0 0.3125rem 0.625rem rgba(154, 160, 185, 0.05), 0 0.9375rem 2.5rem rgba(0, 0, 0, 0.1);
 }
